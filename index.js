@@ -1,5 +1,5 @@
 const fs = require('fs');
-const Discord = require('discord.js');
+const Discord = require('Discord.js');
 
 const { prefix, token } = require('./config.json');
 
